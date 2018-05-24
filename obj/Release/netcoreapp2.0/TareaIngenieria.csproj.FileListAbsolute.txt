@@ -1,0 +1,11 @@
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\bin\Release\netcoreapp2.0\TareaIngenieria.deps.json
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\bin\Release\netcoreapp2.0\TareaIngenieria.runtimeconfig.json
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\bin\Release\netcoreapp2.0\TareaIngenieria.runtimeconfig.dev.json
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\bin\Release\netcoreapp2.0\TareaIngenieria.dll
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\bin\Release\netcoreapp2.0\TareaIngenieria.pdb
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\obj\Release\netcoreapp2.0\TareaIngenieria.csprojResolveAssemblyReference.cache
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\obj\Release\netcoreapp2.0\TareaIngenieria.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\obj\Release\netcoreapp2.0\TareaIngenieria.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\obj\Release\netcoreapp2.0\TareaIngenieria.AssemblyInfo.cs
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\obj\Release\netcoreapp2.0\TareaIngenieria.dll
+C:\Users\ronal\source\repos\TareaIngenieria\TareaIngenieria\obj\Release\netcoreapp2.0\TareaIngenieria.pdb
